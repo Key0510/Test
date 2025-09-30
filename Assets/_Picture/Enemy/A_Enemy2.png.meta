@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 98d91d9a1ffee6e45aeb9dc268d155ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4938397120989167522
+    second: Slime2-Photoroom_0
+  - first:
+      213: 4030941110459319612
+    second: Slime2-Photoroom_1
+  - first:
+      213: 6460964097453692169
+    second: Slime2-Photoroom_2
+  - first:
+      213: -4202128246352908199
+    second: Slime2-Photoroom_3
+  - first:
+      213: 3885362241682137331
+    second: Slime2-Photoroom_4
+  - first:
+      213: 8787210640955515425
+    second: Slime2-Photoroom_5
+  - first:
+      213: 516187104786304038
+    second: Slime2-Photoroom_6
+  - first:
+      213: 4243485104342163078
+    second: Slime2-Photoroom_7
+  - first:
+      213: 3575476570145147857
+    second: Slime2-Photoroom_8
+  - first:
+      213: -1384674004359825060
+    second: Slime2-Photoroom_9
+  - first:
+      213: 113115236552028125
+    second: Slime2-Photoroom_10
+  - first:
+      213: -4574029975115504772
+    second: Slime2-Photoroom_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Slime2-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 747
+        width: 206
+        height: 200
+      alignment: 9
+      pivot: {x: 0.49406123, y: -0.0016009521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5001a3bbf9477bb0800000000000000
+      internalID: -4938397120989167522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 747
+        width: 209
+        height: 200
+      alignment: 9
+      pivot: {x: 0.4941469, y: -0.0016012574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3542774597c0f730800000000000000
+      internalID: 4030941110459319612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 747
+        width: 209
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5000003, y: -0.0016009521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905974f6d94f9a950800000000000000
+      internalID: 6460964097453692169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 747
+        width: 210
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5000003, y: 0.0045162966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950ff7faf9a0fa5c0800000000000000
+      internalID: -4202128246352908199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 455
+        width: 206
+        height: 194
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.0018043125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0ed2f8f549be530800000000000000
+      internalID: 3885362241682137331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 456
+        width: 219
+        height: 190
+      alignment: 9
+      pivot: {x: 0.49441376, y: 0.004194079}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122afa4758172f970800000000000000
+      internalID: 8787210640955515425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 455
+        width: 232
+        height: 161
+      alignment: 9
+      pivot: {x: 0.50000024, y: 0.013672633}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ccc6adf6dd92700800000000000000
+      internalID: 516187104786304038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 455
+        width: 228
+        height: 131
+      alignment: 9
+      pivot: {x: 0.49463454, y: -0.004309268}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ed9fd2833e3ea30800000000000000
+      internalID: 4243485104342163078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 154
+        width: 206
+        height: 201
+      alignment: 9
+      pivot: {x: 0.49406123, y: 0.00089442317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbcb323ff4ae9130800000000000000
+      internalID: 3575476570145147857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 154
+        width: 209
+        height: 195
+      alignment: 9
+      pivot: {x: 0.49414647, y: 0.0043590837}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c593a605456a8cce0800000000000000
+      internalID: -1384674004359825060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 154
+        width: 209
+        height: 203
+      alignment: 9
+      pivot: {x: 0.5000003, y: -0.00021497604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf2e5555bdd19100800000000000000
+      internalID: 113115236552028125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime2-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 154
+        width: 210
+        height: 202
+      alignment: 9
+      pivot: {x: 0.49417463, y: -0.0026912878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73604dc8f7c580c0800000000000000
+      internalID: -4574029975115504772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9e7d82c93dbdb8147bc11902d1b876fc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Slime2-Photoroom_0: -4938397120989167522
+      Slime2-Photoroom_1: 4030941110459319612
+      Slime2-Photoroom_10: 113115236552028125
+      Slime2-Photoroom_11: -4574029975115504772
+      Slime2-Photoroom_2: 6460964097453692169
+      Slime2-Photoroom_3: -4202128246352908199
+      Slime2-Photoroom_4: 3885362241682137331
+      Slime2-Photoroom_5: 8787210640955515425
+      Slime2-Photoroom_6: 516187104786304038
+      Slime2-Photoroom_7: 4243485104342163078
+      Slime2-Photoroom_8: 3575476570145147857
+      Slime2-Photoroom_9: -1384674004359825060
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
